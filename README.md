@@ -5,4 +5,4 @@ Recomiendo abrir el Notebook desde Google Colab para que se puedan ejecutar los 
 
 Adjunto el link de Google Colab para que se pueda ejecutar desde ahi:
 
-[Google Colab](https://colab.research.google.com/drive/1UOwrmXxziPR8NjqQi0O6tJWWFwayavvA?usp=sharing)
+[Google Colab, Notebook de Python con los ejercicios](https://colab.research.google.com/drive/1UOwrmXxziPR8NjqQi0O6tJWWFwayavvA?usp=sharing)
